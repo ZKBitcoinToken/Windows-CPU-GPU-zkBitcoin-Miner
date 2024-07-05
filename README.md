@@ -20,8 +20,10 @@ The zkBitcoin Miner is built with the following technologies and libraries:
 
 Before starting with zkBitcoin mining, ensure you have the following:
 
-- **.NET Core Runtime**: For Windows, download from [Microsoft .NET Download](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-5.0.5-windows-x64-installer). For Ubuntu, use the `sudo ./install-deps.sh` script. For Ethos, use `sudo ./install-deps-ethOS.sh`.
+- **.NET Core Runtime**: For Windows, download from [Microsoft .NET Download](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-5.0.5-windows-x64-installer). 
 - **Nvidia or AMD GPU Drivers**: Ensure you have the latest drivers installed that support CUDA or OpenCL, respectively.
+
+For Ubuntu, Go to the [Linux zkBitcoin Miner Github]([https://aka.ms/vs/16/release/vc_redist.x64.exe](https://github.com/ZKBitcoinToken/Linux-CPU-GPU-zkBitcoin-Miner))
 
 ### Configuration
 
